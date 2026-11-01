@@ -30,10 +30,7 @@
 
 <p align="center">$\textcolor{#2563EB}{\textsf{I like being a affectionate with}}$ $\textcolor{#60A5FA}{\textsf{my friends.}}$</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=18&duration=1&pause=999999&color=2563EB&center=true&vCenter=true&width=600&lines=My+pony!!+dnc" />
-</p>
-<p align="center"><img width="204" height="212" alt="pony-town-,dante-dance-sit-blinking-padded-4x" src="https://github.com/user-attachments/assets/5a013005-0479-416f-b391-563a8a533d9b" />
+
 
 <p align="center">
 <a href="https://www.gifsanimados.org/cat-mariposas-291.htm"><img src="https://www.gifsanimados.org/data/media/291/mariposa-imagen-animada-0143.gif" border="0" alt="mariposa-imagen-animada-0143" /></a>
